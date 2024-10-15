@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/agustint96/agustint96/refs/heads/main/giphy.gif" alt="Art Glow GIF" width="100%" height= "30%">
+    <img src="https://raw.githubusercontent.com/agustint96/agustint96/refs/heads/main/giphy.gif" alt="Art Glow GIF" width="100%" height= "10%">
 </div>
 
 <h1 align="left">Hi 👋, I'm Agus</h1>

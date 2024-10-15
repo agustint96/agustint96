@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Agus</h1>
-<h3 align="center">Student of Computer Systems Analyst</h3>
+<h1 align="left">Hi 👋, I'm Agus</h1>
+<h3 align="left">Student of Computer Systems Analyst</h3>
 
 - 🌱 Currently **I am pursuing a diploma in Data Science, where I am acquiring skills in Python, data analysis, data visualization, and machine learning.**
 

@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello;Hola;Ol%C3%A1;Bonjour;Ciao;%D7%A9%D7%9C%D7%95%D7%9D)](https://git.io/typing-svg)
 <h1 align="left">Hi 👋, I'm Agus</h1>
 <h3 align="left">Student of Computer Systems Analyst</h3>
 

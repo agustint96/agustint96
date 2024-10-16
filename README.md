@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/agustint96](https://github.com/agustint96)
 
-- 💬 Ask me about **Web Development (HTML, CSS, JavaScript, C#) and Programming.**
+- 💬 Ask me about **Web Development and Programming.**
 
 - 📫 How to reach me **agustintardella7@gmail.com**
 
